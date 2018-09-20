@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.codingcrafts",
+      "nativeLanguage": "de"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "com.codingcrafts",
+    "packageFolder": "com/codingcrafts",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTk2ZTRhNWM3OGMzZGUyMTBmZWJlYTJmMTkwMmM2MTlkMGU3N2U4YjE4YTY5NDI5ZjZkN2FiNmVkNmM3NWUwNThmNWVlNGMyMzE1OTIyZWMxMWRlYjBhNjc2OTkwMjEwZjljNjkzMjEyZmE1OGU2YzQ5ODFiZWQ5Mzc1Njc3MDM=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "de",
+    "languages": [
+      "de"
+    ]
+  }
+}
